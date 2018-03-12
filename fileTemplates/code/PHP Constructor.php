@@ -1,1 +1,4 @@
-public function __construct(${PARAM_LIST}) {${BODY}}
+public function __construct(${PARAM_LIST}) 
+{
+  ${BODY}
+}

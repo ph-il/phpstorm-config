@@ -1,3 +1,1 @@
-/**
- * @var ${TYPE_HINT}${CARET}
- */
+/** @var ${TYPE_HINT}${CARET} */
