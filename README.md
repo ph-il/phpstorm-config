@@ -10,7 +10,28 @@ Base on [Nic Wortel phpstorm-ide-config](https://github.com/nicwortel/phpstorm-i
 
 Feel free to use or fork this repository. Note that I use PhpStorm 2017.3. I cannot guarantee compatibility with other versions of PhpStorm.
 
+## Plugin we use
+
 Some configuration is specifically for the [Php Inspections (EA Extended)](https://github.com/kalessil/phpinspectionsea) plugin. I guess this is ignored when you don't have the plugin.
+
+* .env files support
+* .ignore
+* deep-assoc-completion
+* EditorConfig
+* PHP Annotations
+* PHP Class Templates
+* PHP composer.json support
+* PHP inheritDoc helper
+* Php Inspections (EA Extended)
+* PHP Toolbox
+* PhpMetrics
+* PHPUnit code coverage
+* PHPUnit Enhancement
+* String Manipulation
+* Symfony Plugin
+
+If you use 
+* SensioLabsInsight
 
 ## Code style settings overview
 
