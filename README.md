@@ -29,6 +29,7 @@ Some configuration is specifically for the [Php Inspections (EA Extended)](https
 * PHPUnit Enhancement
 * String Manipulation
 * Symfony Plugin
+* Twig Support
 
 If you use 
 * SensioLabsInsight
